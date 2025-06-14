@@ -6,7 +6,7 @@
 
 ## 🌐 Demo
 
-👉 [Xem website mẫu tại đây](file:///D:/L%E1%BA%ADp%20Tr%C3%ACnh%20WEB/Digital_Cv/index.html) 
+👉 [Xem website mẫu tại đây](http://127.0.0.1:5500/index.html) 
 
 ## 🚀 Tính năng nổi bật
 
