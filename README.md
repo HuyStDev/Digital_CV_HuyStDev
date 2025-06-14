@@ -6,7 +6,7 @@
 
 ## 🌐 Demo
 
-👉 [Xem website mẫu tại đây](http://127.0.0.1:5500/Nhathuy.html) 
+👉 [Xem website mẫu tại đây](http://127.0.0.1:5500/NhatHuy.html) 
 
 ## 🚀 Tính năng nổi bật
 
